@@ -1,4 +1,4 @@
-﻿namespace StatusAluno
+﻿namespace Exercicio1
 {
     internal class Program
     {

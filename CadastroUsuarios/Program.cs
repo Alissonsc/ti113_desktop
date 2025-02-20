@@ -1,4 +1,4 @@
-﻿namespace CadastroUsuarios
+﻿namespace Exercicio2
 {
     internal class Program
     {
